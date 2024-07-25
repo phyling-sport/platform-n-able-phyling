@@ -31,7 +31,7 @@
     "framework-n-able-arduino": {
       "type": "framework",
       "optional": false,
-      "version": "https://github.com/h2zero/n-able-Arduino.git#8f25513"
+      "version": "https://github.com/phyling-sport/phyling-n-able-Arduino.git#53b12d8"
     },
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
